@@ -7,8 +7,13 @@ Introduction
 This project aims to create a system that can recognize and translate sign language gestures using a Convolutional Neural Network (CNN). The model is trained on a labeled dataset of sign language images and can predict the sign with high accuracy.
 
 Features
+
 Image processing and augmentation for better model training.
+
 Convolutional Neural Network (CNN) architecture for image classification.
+
 Model training, validation, and testing pipelines.
+
 Visualization of model predictions.
+
 Prediction confidence scoring.
